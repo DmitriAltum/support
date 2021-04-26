@@ -17,6 +17,7 @@
 # Version 1.2 - added support to upgrade 11-11.2.2 Mac computers to 11.2.3
 # Version 1.2.1 - added SYSTEM_VERSION_COMPAT=0 to prevent retrieving "10.16"
 # as the OS version in early macOS 11 versions
+# Version F.1.3 - Forked for Finix use and added support tu upgrade 11-11.2.3 macOS computers to 11.3
 ################################################################################################
 # Software Information
 ################################################################################################
