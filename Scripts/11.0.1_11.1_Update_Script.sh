@@ -61,10 +61,10 @@
 
 
 #Specify your Org/Dept name, this will be shown to users. 
-orgAndDeptName="Kandji IS&T"
+orgAndDeptName="Finix IT"
 
 #Specify how long each deferral should be (Before the user is re-prompted) 
-deferralWindow="24"
+deferralWindow="1"
 
 #Specify if the script should only launch the Install macOS Big Sur.App for the user, as opposed to initiating a startosinstall
 LaunchInstallerOnly="0"
@@ -76,7 +76,7 @@ osatimeout="180"
 
 passwordTry="0"
 
-instVers="11.2.3"
+instVers="11.3"
 minOsVers="11.0"
 
 #Determine the processor brand
@@ -194,10 +194,10 @@ fInitManualSusDownload ()
 {
 	
 	# Download URL
-	dlURL="http://swcdn.apple.com/content/downloads/12/32/071-14766-A_Q2H6ELXGVG/zx8saim8tei7fezrmvu4vuab80m0e8a5ll/InstallAssistant.pkg"
+	dlURL="http://swcdn.apple.com/content/downloads/40/42/071-29172-A_50FL5BT4I6/5w0xm8c31yigcf2iov4n4mlsvnw1upzo2q/InstallAssistant.pkg"
 	
 	# SHA256 checksum of the file for verification Example: shasum -a 256 PATH/TO/FILE
-	fileChecksum="0fd7cf05746316145012fadcf266413bbb862b3dfb8b5e58d9b0ca1e98f57f01"
+	fileChecksum="7009dad5da542b01147e86fe1bda191c2cea1439b42f82e65b5eb7d585e2e1b3"
 	
 	################################################################################################
 	
