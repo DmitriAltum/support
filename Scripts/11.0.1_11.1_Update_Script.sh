@@ -77,7 +77,7 @@ osatimeout="180"
 
 passwordTry="0"
 
-instVers="11.3"
+instVers="11.3.1"
 minOsVers="11.0"
 
 #Determine the processor brand
